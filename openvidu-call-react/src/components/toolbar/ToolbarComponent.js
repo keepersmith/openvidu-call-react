@@ -19,7 +19,9 @@ import QuestionAnswer from '@material-ui/icons/QuestionAnswer';
 
 import IconButton from '@material-ui/core/IconButton';
 
-const logo = require('../../assets/images/openvidu_logo.png');
+//const logo = require('../../assets/images/openvidu_logo.png');
+
+import logo from '../../assets/images/openvidu_logo.png';
 
 export default class ToolbarComponent extends Component {
     constructor(props) {
